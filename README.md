@@ -5,7 +5,6 @@ Notes written by me and code replicated (from scratch) while completing the Udem
 
 | Description | Screenshot |
 | ------ | ------ |
-| Laser Scan Particles | <img src="https://github.com/trunc8/udemy_ros_part2/blob/assets/laser_scan.png" width="400">  |
-| Global Map | <img src="https://github.com/trunc8/udemy_ros_part2/blob/assets/global_map.png" width="400">  |
-| Local Map | <img src="https://github.com/trunc8/udemy_ros_part2/blob/assets/local_map.png" width="400">  |
-| AMCL Particles | <img src="https://github.com/trunc8/udemy_ros_part2/blob/assets/amcl_particles.png" width="400">  |
+| Green arrows: AMCL Particles; Deep Blue Square: Local Mapping; Lighter blue: Global Mapping; Green squares on walls: Laser Scan Particles | <img src="https://github.com/trunc8/udemy_ros_part2/blob/assets/stationary.png" width="400">  |
+| move\_base Motion Planner | <img src="https://github.com/trunc8/udemy_ros_part2/blob/assets/move_base.png" width="400">  |
+| Dense AMCL Particles with Higher Confidence in Localization | <img src="https://github.com/trunc8/udemy_ros_part2/blob/assets/dense_amcl.png" width="400">  |
