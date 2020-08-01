@@ -12,7 +12,6 @@ from move_base_msgs.msg import MoveBaseAction, MoveBaseGoal
 # navigate towards the goal
 
 def moveToGoal(x_goal, y_goal):
-    pass
     ac = actionlib.SimpleActionClient('move_base', MoveBaseAction)
 
     while(not ac.wait_for_server(rospy.Duration.from_sec(5.0))):

@@ -1,5 +1,4 @@
 ## Udemy\_ROS\_Part2
-This is the repository of the Udemy course on navigation
 [Notes](https://github.com/trunc8/udemy_ros_part2/blob/master/Udemy_ROS_Part2_Notes.pdf) written by me and code replicated (from scratch) while completing the Udemy Course delivered by Anis Koubaa titled [ROS For Beginners II: Localization, Navigation and SLAM](https://www.udemy.com/course/ros-navigation/)
 
 
