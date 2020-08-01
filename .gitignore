@@ -1,0 +1,12 @@
+# borrowed from slam_gmapping (https://github.com/ros-perception/slam_gmapping/blob/melodic-devel/.gitignore)
+.cproject
+.project
+.pydevproject
+cmake_install.cmake
+build/
+bin/
+lib/
+msg_gen/
+srv_gen/
+*.pyc
+*~
