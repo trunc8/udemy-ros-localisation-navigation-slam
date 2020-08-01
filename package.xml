@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>Udemy_ROS_Part2</name>
+  <name>udemy_ros_part2</name>
   <version>0.0.0</version>
-  <description>The Udemy_ROS_Part2 package</description>
+  <description>The udemy_ros_part2 package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
@@ -19,7 +19,7 @@
   <!-- Url tags are optional, but multiple are allowed, one per tag -->
   <!-- Optional attribute type can be: website, bugtracker, or repository -->
   <!-- Example: -->
-  <!-- <url type="website">http://wiki.ros.org/Udemy_ROS_Part2</url> -->
+  <!-- <url type="website">http://wiki.ros.org/udemy_ros_part2</url> -->
 
 
   <!-- Author tags are optional, multiple are allowed, one per tag -->

@@ -1,4 +1,4 @@
-image: /home/trunc8/villa/Basement/Playground/catkin_ws/src/Udemy_ROS_Part2/maps/house_map.pgm
+image: /home/trunc8/villa/Basement/Playground/catkin_ws/src/udemy_ros_part2/maps/house_map.pgm
 resolution: 0.050000
 origin: [-10.000000, -10.000000, 0.000000]
 negate: 0
